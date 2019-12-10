@@ -49,7 +49,9 @@
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
-    "witsec-white-label": "on"
+    "witsec-white-label": "on",
+    "publishType": "local",
+    "publishPath": "file:///D:/VisionTech/Web%20Projects/yummymomo/Site/Site_10.12.19_2"
   },
   "pages": {
     "index.html": {
